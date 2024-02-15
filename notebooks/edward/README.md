@@ -1,4 +1,4 @@
-Edward Work Directory
+# Edward Work Directory
 
 ## TA Meeting 1 2/13/2024
 
