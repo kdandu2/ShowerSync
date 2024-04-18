@@ -40,10 +40,10 @@ Motor integration is complete. Swapped out motor on handle with one that works. 
 
 We found out our PCB order was cancelled, so we have made more revisions to order again separately. All of our individual subsystems work fine and motor/temperature is already integrated. We have to order some more PCB parts that are not available in the shop.
 
-## TA Meeting 4/9/2024
+## TA Meeting 8 4/9/2024
 
 PCB should be almost here. Not many updates since all we have left is to solder the PCB and we need to wait for everything to come.
 
-## TA Meeting 4/16/2024
+## TA Meeting 9 4/16/2024
 
 Our PCB came in and we soldered the parts that we have as of right now. Some parts didn't match so we had to reorder some components. We still have not programmed our ESP on the PCB since we are missing buttons and a USB-C receptacle that we ordered incorrectly. We also had our mock demo in which we demonstrated our working subsystems on a breadboard. 
