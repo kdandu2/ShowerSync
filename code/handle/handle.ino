@@ -95,20 +95,24 @@ void loop() {
     if( end == 0 || end == 2 ){
         if (((temperature > temperature_check) && flag > 0) || reset == 1){
             //end = 2;
-            stepCCW();
-            delay(50);
-            flag--;
-            if(flag <= 0){
-                end = 1; 
-                called = false; 
-                isRunning = false; 
-                reset = 0;
-            }
+            for (int i=0; i<5; i++){
+              stepCCW();
+              delay(50);
+              flag--;
+              if(flag <= 0){
+                  end = 1; 
+                  called = false; 
+                  isRunning = false; 
+                  reset = 0;
+              }
+          }
         } else {
-            stepCW();
-            delay(50);
-            flag++;
+            for (int i=0; i<5; i++){
+              stepCW();
+              delay(50);
+              flag++;
             }
+        }
     }
 }
 
