@@ -5,7 +5,7 @@
 - Worked on the Proposal and submitted it
 - Worked on the team contract 
 
-3) Week 2: 2/12/2024 - 2/18/2024
+2) Week 2: 2/12/2024 - 2/18/2024
 - TA Meeting 2/13
 - Discussed with machine shop about the motor and handle system 2/15
 - Started ordering the first stepper motor for trial and then a shower handle for the setup to start the project
