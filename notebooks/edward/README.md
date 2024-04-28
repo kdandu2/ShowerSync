@@ -16,9 +16,15 @@ Discussed next steps of PCB design. Split up subsystems to each person. Currentl
 
 Continue to work on PCB. Ordered a motor driver package to test different motor since we gave the machine shop our original motor. As of right now, we are still trying to figure out the settings to program our ESP. Once we finish that, we can begin writing driver code.
 
+<img width="288" alt="Screenshot 2024-04-28 at 2 12 14 PM" src="https://github.com/Edidas02/ShowerSync/assets/53875786/e9a2d8ad-7a3b-4825-b4f6-417ce26a4bd6">
+
+<img width="203" alt="Screenshot 2024-04-28 at 2 12 28 PM" src="https://github.com/Edidas02/ShowerSync/assets/53875786/2b638d0e-f876-4124-8798-4b036258727e">
+
+
 ## TA Meeting 4 3/5/2024
 
-Still routing our PCB. We should be able to make it by the 2nd order deadline. Finished programming the ESP and fully integrated the temperature sensor. As of right now, our temperature sensor can read a 16-bit value and output it as a temperature in Celsius or Fahrenheit.
+Still routing our PCB. We should be able to make it by the 2nd order deadline. Finished programming the ESP and fully integrated the 
+temperature sensor. As of right now, our temperature sensor can read a 16-bit value and output it as a temperature in Celsius or Fahrenheit.
 
 ## Mid-week update
 
