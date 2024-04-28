@@ -30,8 +30,11 @@ temperature sensor. As of right now, our temperature sensor can read a 16-bit va
 
 We finished the first design of our PCB. We still have to debug any problems if they arise, but the first draft is done.
 <img width="390" alt="Screenshot 2024-04-28 at 2 12 38 PM" src="https://github.com/Edidas02/ShowerSync/assets/53875786/0c576a60-79a4-4cdc-acef-7841bee313cb">
+
 <img width="714" alt="Screenshot 2024-04-28 at 2 12 52 PM" src="https://github.com/Edidas02/ShowerSync/assets/53875786/4fce8c44-a806-4731-a1c0-a880d4ebfd59">
+
 <img width="148" alt="Screenshot 2024-04-28 at 2 12 59 PM" src="https://github.com/Edidas02/ShowerSync/assets/53875786/03083945-f77d-4bc0-b2e3-b3c1b626f622">
+
 <img width="151" alt="Screenshot 2024-04-28 at 2 13 04 PM" src="https://github.com/Edidas02/ShowerSync/assets/53875786/7ea72a59-6914-4057-955c-ba5397151fd2">
 
 ## Spring break
