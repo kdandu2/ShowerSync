@@ -47,3 +47,7 @@ PCB should be almost here. Not many updates since all we have left is to solder 
 ## TA Meeting 9 4/16/2024
 
 Our PCB came in and we soldered the parts that we have as of right now. Some parts didn't match so we had to reorder some components. We still have not programmed our ESP on the PCB since we are missing buttons and a USB-C receptacle that we ordered incorrectly. We also had our mock demo in which we demonstrated our working subsystems on a breadboard. 
+
+## Final Demo
+
+Demoed on 4/25/2024. Was unable to get PCB working unfortunately, but breadboarding our subsystems and integration were functional.
