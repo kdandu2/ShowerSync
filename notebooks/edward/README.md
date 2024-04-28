@@ -45,6 +45,7 @@ Ordered PCB in 2nd round. Working on integrating the motor with ESP. Received fi
 ## TA Meeting 6 3/25/2024
 
 Motor integration is complete. Swapped out motor on handle with one that works. Also integrated temperature with the motor so the handle moves depending on the temperature reading.
+
 <img width="201" alt="Screenshot 2024-04-28 at 2 17 53 PM" src="https://github.com/Edidas02/ShowerSync/assets/53875786/9dd18347-10d0-480f-a773-f39091ff6216">
 
 ## TA Meeting 7 4/2/2024
