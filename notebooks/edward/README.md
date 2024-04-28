@@ -55,6 +55,9 @@ Motor integration is complete. Swapped out motor on handle with one that works. 
 
 We found out our PCB order was cancelled, so we have made more revisions to order again separately. All of our individual subsystems work fine and motor/temperature is already integrated. We have to order some more PCB parts that are not available in the shop.
 
+<img width="506" alt="Screenshot 2024-04-28 at 2 19 16 PM" src="https://github.com/Edidas02/ShowerSync/assets/53875786/6e4cca73-933d-49f4-9aee-8b694c558913">
+
+
 ## TA Meeting 8 4/9/2024
 
 PCB should be almost here. Not many updates since all we have left is to solder the PCB and we need to wait for everything to come.
