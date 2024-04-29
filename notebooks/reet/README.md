@@ -76,11 +76,11 @@
 - TA Meeting 4/9
 - We were informed about our PCB tracking
 - I ordered the 12 components we need, and requested the TA for the other components
-- We can start soldering once PCB arrives and components come.
+- Will start soldering once PCB arrives and components come
 
 ## 11) Week 10: 4/15/2024 - 4/21/2024
 - TA Meeting 4/16/2024
-- PCB came in and soldered the parts that also came in.
+- PCB came in and I soldered most of the parts that also came in
 - Prepped for Mock Demo
 - Completed team contract fulfillment
 - Had to reorder some components which did not match
