@@ -87,6 +87,11 @@
 - Did not programm ESP yet since we were waiting on buttons and USBC-receptacle
 - Demnonstrated working subsystems on breadboard
 - Realized our PCB does not work due to buck converter not being able to send 3.3V
+- Provided the PCB with all the parts soldered on and the physical video of the shower knob
+
+![thumbnail_image0 (1)](https://github.com/Edidas02/ShowerSync/assets/89497893/e437df51-c7c1-4b28-947f-6a89414a86a9)
+
+https://github.com/Edidas02/ShowerSync/assets/89497893/e82780b3-4b89-4508-9517-e60529b4aa2c
 
 ## 12) Week 11: 4/22/2024 - 4/28/2024
 - Final Demo
