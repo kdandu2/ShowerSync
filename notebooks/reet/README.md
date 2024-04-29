@@ -22,12 +22,22 @@
 - Worked on the Design Document
 - Reworked the proposal with the feedback provided 
 - Started working towards the Design Review and PCB design
+- Provided below sketches I worked on 
+
+<img width="722" alt="visual aid 1" src="https://github.com/Edidas02/ShowerSync/assets/89497893/fea341b8-0615-4d86-a197-3cc59def194b">
+
+<img width="462" alt="Physical Design 3" src="https://github.com/Edidas02/ShowerSync/assets/89497893/f64cbfa3-c5c2-4761-b3dd-af1e7d24de88">
 
 4) Week 4: 2/26/2024 - 3/3/2024
 - Design Review 2/27
 - Worked on the PCB design looking at datasheets and informed the team of what we may need to order component wise
 - Found out we would need a motor driver to allow the stepper motor to be able to drive
-- Worked with the team on how to figure out the DevKit and how to burn bootloader etc. 
+- Worked with the team on how to figure out the DevKit and how to burn bootloader etc.
+- Provided below schematics I worked on and eventually also modified with cross referencing datasheets.
+
+<img width="218" alt="sketch2" src="https://github.com/Edidas02/ShowerSync/assets/89497893/d9cbcd36-28c7-49ba-a171-68cf11d46007">
+
+<img width="422" alt="sketch3" src="https://github.com/Edidas02/ShowerSync/assets/89497893/c4d6b86d-bf27-42bb-8f37-2153d2cecb3b">
 
 5) Week 5: 3/4/2024 - 3/10/2024
 - TA Meeting 3/5
