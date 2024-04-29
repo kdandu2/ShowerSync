@@ -70,7 +70,11 @@
 - Our team found out that the PCB from Round 2 was cancelled from course staff
 - Emailed Jason and Nikhil to make revisions and was informed about moving forward from course staff on ordering separately
 - Saw that our subsystems were working fine, linear actuator did not have time to fully function since we decided to test it on the pcb because keeping mind of our budget it would not make sense to buy a driver for breadboard.
-- We stated a list of components after our separate order to start buying. 
+- We stated a list of components after our separate order to start buying.
+- Modified some parts of the PCB for correct revisions and ordering
+- Provided PCB design after reordering
+
+<img width="713" alt="image" src="https://github.com/Edidas02/ShowerSync/assets/89497893/d90abfe6-62e1-46be-b26a-a1c4885111d4">
 
 ## 10) Week 9: 4/8/2024 - 4/14/2024
 - TA Meeting 4/9
