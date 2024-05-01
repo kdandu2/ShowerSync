@@ -8,8 +8,9 @@ Met with the machine shop for the first time. We walked them through our design 
 
 # TA Meeting 2/20/2024
 Nikhil helped us start with the initial steps of the PCB design and gave us advice on how to start testing components as they came in, along with how to use the devkit to begin programming. We split up the subsystems and since I am covering the transmission and a lot of integration work and these aren't PCB components, I am going to work on the data-driven parts like connection to the microcontroller and the boot circuit.
-<img width="151" alt="Screenshot 2024-05-01 at 12 47 48 PM" src="https://github.com/Edidas02/ShowerSync/assets/144846037/7399f485-3eb6-451d-a151-224f1ebafafb">
+
 <img width="154" alt="Screenshot 2024-05-01 at 12 58 42 PM" src="https://github.com/Edidas02/ShowerSync/assets/144846037/d3b3b77e-f1bc-47aa-9f66-432e27e81143">
+<img width="235" alt="Screenshot 2024-05-01 at 1 04 09 PM" src="https://github.com/kdandu2/ShowerSync/assets/144846037/4ca6e376-87c4-41e5-b9c6-767e692920eb">
 
 
 
